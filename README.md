@@ -4,6 +4,6 @@ In this repository there are projects , which mainly consists of anlayzing the p
 2. Data.gov : https://data.gov.in/
 
 For analysis , mainly four python libraries are used
-a. Pandas : Data cleaning and normalization 
-b. Numpy : Performing mathematical calculations
-c. Matplotlib / Seaborn : Data Visualization
+1. Pandas : Data cleaning and normalization 
+2. Numpy : Performing mathematical calculations
+3.   Matplotlib / Seaborn : Data Visualization
